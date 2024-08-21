@@ -6,6 +6,7 @@ extern crate derive_builder;
 extern crate tracing;
 
 pub mod api;
+pub mod atlas;
 pub mod auth;
 pub mod aws;
 pub mod client;
