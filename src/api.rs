@@ -1,4 +1,5 @@
 pub mod auth;
+pub mod atlas;
 pub mod aws;
 pub mod database;
 pub mod identity;
